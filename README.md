@@ -4,5 +4,8 @@
 
 **drift_analysis.ipynb** - Calculates PSI (population stability index) to measure how much patient age’s distribution has shifted between two samples.
 
-**EDA_los_paidamt** - To gain insights into the relationships between paidamt and length of stay. This analysis helped in making informed decisions on the direction of the constraints for each feature.
+**EDA_los_paidamt** - Gains insights into the relationships between paidamt and length of stay. This analysis helped in making informed decisions on the direction of the constraints for each feature.
 
+**biobert_embeddings_cosine_similarity** - Compares two vectors using cosine similarity. Utilizes BioBERT model to generate embeddings for diagnosis codes.
+
+**fairness_analysis** - Conducted a thorough bias assessment using the Precision metric, applying bootstrapped 95% confidence intervals and Cohen’s d to compare global and subgroup Precision distributions.
