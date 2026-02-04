@@ -9,3 +9,5 @@
 **biobert_embeddings_cosine_similarity** - Compares two vectors using cosine similarity. Utilizes BioBERT model to generate embeddings for diagnosis codes.
 
 **fairness_analysis** - Conducted a thorough bias assessment using the Precision metric, applying bootstrapped 95% confidence intervals and Cohen’s d to compare global and subgroup Precision distributions.
+
+**sklearnPCA_vs_explicit_calculation** - This notebook compares the outcome of sklearn PCA algorithm with manual, step by step dimensionality reduction for iris dataset. Leverages the concepts of covariance of a matrix, eigen values, eigen vectors, linear transformations and vector projections.
